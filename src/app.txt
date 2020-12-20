@@ -1,11 +1,1 @@
-commit master A
-commit master B
-commit feature C
-commit feature D
-commit feature E
-commit remote origin
-commit remote portable
-create new repo learn
-commit master A
-commit master B
-add commit to learn in rebase master
+commit learn repo remote
