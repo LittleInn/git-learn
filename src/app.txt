@@ -8,3 +8,4 @@ commit remote portable
 create new repo learn
 commit master A
 commit master B
+add commit to learn in rebase master
