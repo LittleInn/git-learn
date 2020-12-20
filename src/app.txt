@@ -6,3 +6,4 @@ commit feature E
 commit remote origin
 commit remote portable
 create new repo learn
+commit master A
