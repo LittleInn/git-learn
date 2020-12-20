@@ -7,3 +7,4 @@ commit remote origin
 commit remote portable
 create new repo learn
 commit master A
+commit master B
